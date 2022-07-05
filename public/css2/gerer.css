@@ -1,0 +1,24 @@
+.table{
+	position: relative;
+	margin-right: 25%;
+	margin-top: 60px;
+	padding-left: -30px;
+}
+ h5{
+	margin-left: 25%;
+	color: white;
+}
+.modal-header{
+	background-color: orangered;
+}
+.modal-footer{
+	background-color: orangered;
+}
+/* modal pour ajout vol */
+.modal-header1{
+	background-color: green;
+}
+
+.modal-footer1{
+	background-color: grey;
+}

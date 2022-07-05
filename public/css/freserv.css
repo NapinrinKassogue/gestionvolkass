@@ -1,0 +1,28 @@
+.corp{
+position: relative;
+margin-left: 10%;
+margin-top: 5px;
+color: white;
+
+}
+.contour{
+	height: 450px;
+	width: 400px;
+	margin-left: -20%;
+	margin-top: 60px;
+	background-color: blueviolet;
+}
+.btn{
+	margin-top: 2%;
+	margin-left: 25px;
+	border-radius: 20px;
+}
+.f{
+	width: 200px;
+	height: 30px;
+}
+h6{
+	text-align: center;
+	margin-left: 30%;
+	margin-top: 10px;
+}
